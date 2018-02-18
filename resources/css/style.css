@@ -1,11 +1,30 @@
 h1 {
-  font-family: verdana;
   font-weight: normal;
-  font-size: 50px
-  color: white;
-  text-align: centered
+  font-size: 50px;
+  color: white
 }
 a {
   color: aquamarine;
   font-size: 16px
+}
+
+body {
+    text-align: center;
+    font-family: verdana
+}
+.copyright {
+  text-align: right;
+  color: gray
+}
+h2 {
+  font-weight: 300;
+  font-size: 42px
+}
+h3 {
+  font-size: 21px;
+  color: gray
+}
+
+html {
+  background-color: black
 }
